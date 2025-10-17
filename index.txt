@@ -93,7 +93,7 @@
                           action: {
                             type: "uri",
                             label: "แชร์",
-                            uri: "https://liff.line.me/2007657091-jr14LQ6N?autoshare=1"
+                            uri: "https://liff.line.me/2008309807-3bblKde4?autoshare=1"
                           },
                           color: "#ffbd00"
                         }
@@ -131,4 +131,5 @@
       };
     </script>
   </body>
+
 </html>
